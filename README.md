@@ -78,5 +78,5 @@ $ F(u) = cal(F)[f(x)] = integral_(-oo)^(oo) f(x) e^(-2pi i u t) dif t $
 
 ## 실험 결과
 
-<img src="images/Figure_1.png" width="30%" align="left">
-<img src="images/Figure_2.png" width="30%" align="right">
+<img src="images/Figure_1.png" width="40%" align="left">
+<img src="images/Figure_2.png" width="40%" align="right">
