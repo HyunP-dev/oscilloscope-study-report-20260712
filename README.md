@@ -76,14 +76,7 @@ $ F(u) = cal(F)[f(x)] = integral_(-oo)^(oo) f(x) e^(-2pi i u t) dif t $
   plt.show()
   ```
 
-== 실험 결과
+## 실험 결과
 
-#grid(
-  columns: 2,
-  figure(caption: [오실로스코프의 값을 가져온 모습])[
-    #image("images/Figure_1.png", width: 8cm)
-  ],
-  figure(caption: [푸리에 변환 결과])[
-    #image("images/Figure_2.png", width: 8cm)
-  ],
-)
+<img src="images/Figure_1.png" width="48%" align="left">
+<img src="images/Figure_2.png" width="48%" align="right">
